@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=f0cus77&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/f0cus77/count.svg" />
+</p>
