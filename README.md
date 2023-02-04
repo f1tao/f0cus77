@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning iot exploit
 - 💞️ I’m looking to collaborate on iot exploit
 - 📫 Contact me with f0cus77@proton.me
-- Welcome to follow my [blog](https://f0cus77.github.io/)
 
 <!---
 f0cus77/f0cus77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
